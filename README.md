@@ -108,9 +108,6 @@ pip install pygame numpy opencv-python moviepy
 - 😂 Actually fun
 - 🎨 Art meets music meets CHAOS
 
-### The Philosophy:
-> "Music is subjective. Weirdness is objective. This app is both." - Some wise person, probably
-
 ## 🙋🏻‍♀️ The Mastermind Behind This
 
 **Created by**: Pan Jiani (Jennifer) aka MuddyTomato 🍅  
