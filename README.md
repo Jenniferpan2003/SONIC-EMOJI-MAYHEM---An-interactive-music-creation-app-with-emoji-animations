@@ -131,24 +131,16 @@ A: Seriously FUN software! 😎
 **Created by**: Pan Jiani (Jennifer) aka MuddyTomato 🍅  
 **Student ID**: 25126398G  
 **School**: The Hong Kong Polytechnic University  
-**Program**: Innovation Multimedia Entertainment (Yes, this is a real major!)  
+**Program**: Innovation Multimedia Entertainment
 
 *Made with ❤️, 😂, and probably too much coffee ☕*
 
 ## 🎉 Final Words
 
-Life's too short for boring music apps. 
-
+There are no mistakes in art, only happy accidents!
 Press random keys. Make weird sounds. Watch emojis dance. Save videos. Confuse your friends. Have fun.
-
 That's what SONIC EMOJI MAYHEM is all about! 🎨🎵🤪
-
----
-
-**Remember**: There are no mistakes in art, only happy accidents! (Thanks, Bob Ross)
 
 Now go make something WEIRD! 🚀✨🎪
 
-**Version**: 1.0 - "The Chaotic Beginning"  
 **Last Updated**: October 25, 2025  
-**Weirdness Level**: 🤪🤪🤪🤪🤪 (5/5 Weird Faces)
