@@ -75,7 +75,7 @@ pip install pygame numpy opencv-python moviepy
    - Become one with the keyboard! 🧘‍♂️⌨️
 
 2. Watch the emoji explosion:
-   - Left side: "This is your favorite, huh?" 
+   - Left side: "This is your emoji character, right?" 
    - Right side: "EMOJI PARTY MODE ACTIVATED!" 🎉
 
 3. Hit **SPACE** when you're done (all sounds stop = dramatic ending!)
@@ -101,14 +101,14 @@ pip install pygame numpy opencv-python moviepy
 
 ## 🎭 What Makes This SPECIAL?
 
-### It's NOT Just Another Music App!
+### It's NOT Just Another Music Game!
 - ✨ Your sounds, your rules!
 - 🎪 Every performance is unique
 - 🎬 Auto-records your genius
 - 😂 Actually fun
 - 🎨 Art meets music meets CHAOS
 
-## 🙋🏻‍♀️ The Mastermind Behind This
+## 👥 The Mastermind Behind This
 
 **Created by**: Pan Jiani (Jennifer) aka MuddyTomato 🍅  
 **Student ID**: 25126398G  
@@ -117,8 +117,10 @@ pip install pygame numpy opencv-python moviepy
 
 ## 🎉 Final Words
 
-There are no mistakes in art, only happy accidents!
+There are no mistakes in art, only happy accidents! (Thanks, Bob Ross)
+
 Press random keys. Make weird sounds. Watch emojis dance. Save videos. Confuse your friends. Have fun.
+
 That's what SONIC EMOJI MAYHEM is all about! 🎨🎵🤪
 
 Now go make something WEIRD! 🚀✨🎪
