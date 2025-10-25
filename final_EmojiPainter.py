@@ -152,9 +152,9 @@ class GameState:
 
 game_state = GameState()
 
-# 字体设置 - 使用自定义字体
-ENGLISH_FONT_PATH = "/Users/a1/Desktop/polyu/5913周四/as3/led_counter-7.ttf"
-CHINESE_FONT_PATH = "/Users/a1/Desktop/polyu/5913周四/as3/SourceHanSansCN-Bold.otf"
+# 字体设置 - 使用自定义字体（相对路径）
+ENGLISH_FONT_PATH = os.path.join(SCRIPT_DIR, "led_counter-7.ttf")
+CHINESE_FONT_PATH = os.path.join(SCRIPT_DIR, "SourceHanSansCN-Bold.otf")
 
 # 英文字体（LED样式）
 try:
