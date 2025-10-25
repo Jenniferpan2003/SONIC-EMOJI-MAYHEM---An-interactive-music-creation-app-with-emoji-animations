@@ -85,7 +85,6 @@ pip install pygame numpy opencv-python moviepy
 2. Find your video in the `saved_works` folder
 3. Upload to TikTok, Instagram, YouTube
 4. Wait for the "OMG WHAT IS THIS?!" comments
-5. Profit??? 💰
 
 ## 🎪 Pro Tips & Tricks
 
@@ -106,34 +105,18 @@ pip install pygame numpy opencv-python moviepy
 - ✨ Your sounds, your rules!
 - 🎪 Every performance is unique
 - 🎬 Auto-records your genius
-- 😂 Actually fun (not like homework)
+- 😂 Actually fun
 - 🎨 Art meets music meets CHAOS
 
 ### The Philosophy:
 > "Music is subjective. Weirdness is objective. This app is both." - Some wise person, probably
 
-## 🤔 Frequently Asked Silly Questions
-
-**Q: Can I use this for my school project?**  
-A: YES! Call it "experimental digital art" - instant A+ ⭐
-
-**Q: What if my sounds are TOO weird?**  
-A: There's no such thing! Weird is the GOAL! 🎯
-
-**Q: Can I record a 10-hour version?**  
-A: Your computer might explode but technically yes? 💥
-
-**Q: Is this serious software?**  
-A: Seriously FUN software! 😎
-
-## 👥 The Mastermind Behind This
+## 🙋🏻‍♀️ The Mastermind Behind This
 
 **Created by**: Pan Jiani (Jennifer) aka MuddyTomato 🍅  
 **Student ID**: 25126398G  
 **School**: The Hong Kong Polytechnic University  
 **Program**: Innovation Multimedia Entertainment
-
-*Made with ❤️, 😂, and probably too much coffee ☕*
 
 ## 🎉 Final Words
 
